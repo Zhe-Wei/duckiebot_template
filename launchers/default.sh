@@ -14,7 +14,7 @@ dt-launchfile-init
 
 # launching app
 dt-exec echo "This is an empty launch script. Update it to launch your application."
-
+dt-exec python3 -m "my_package.my_script"
 
 # ----------------------------------------------------------------------------
 # YOUR CODE ABOVE THIS LINE
